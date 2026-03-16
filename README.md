@@ -1,2 +1,2 @@
 # CRUD
-CRUD com Spring Boot
+CRUD basico com Spring Boot
